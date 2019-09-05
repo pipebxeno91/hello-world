@@ -1,0 +1,23 @@
+d:\documentos\visual studio 2017\Projects\misFunciones\misFunciones\bin\Debug\MyFirstUDF.dna
+d:\documentos\visual studio 2017\Projects\misFunciones\misFunciones\bin\Debug\MyFirstUDF.xll
+d:\documentos\visual studio 2017\Projects\misFunciones\misFunciones\bin\Debug\misFunciones.dll
+d:\documentos\visual studio 2017\Projects\misFunciones\misFunciones\bin\Debug\misFunciones.pdb
+d:\documentos\visual studio 2017\Projects\misFunciones\misFunciones\bin\Debug\misFunciones.xml
+d:\documentos\visual studio 2017\Projects\misFunciones\misFunciones\obj\Debug\misFunciones.vbprojResolveAssemblyReference.cache
+d:\documentos\visual studio 2017\Projects\misFunciones\misFunciones\obj\Debug\misFunciones.Resources.resources
+d:\documentos\visual studio 2017\Projects\misFunciones\misFunciones\obj\Debug\misFunciones.vbproj.GenerateResource.Cache
+d:\documentos\visual studio 2017\Projects\misFunciones\misFunciones\obj\Debug\misFunciones.dll
+d:\documentos\visual studio 2017\Projects\misFunciones\misFunciones\obj\Debug\misFunciones.xml
+d:\documentos\visual studio 2017\Projects\misFunciones\misFunciones\obj\Debug\misFunciones.pdb
+C:\Users\bernardo.lisboa\Desktop\ERP\misFunciones\misFunciones\bin\Debug\MyFirstUDF.dna
+C:\Users\bernardo.lisboa\Desktop\ERP\misFunciones\misFunciones\bin\Debug\MyFirstUDF.xll
+C:\Users\bernardo.lisboa\Desktop\ERP\misFunciones\misFunciones\bin\Debug\misFunciones.dll
+C:\Users\bernardo.lisboa\Desktop\ERP\misFunciones\misFunciones\bin\Debug\misFunciones.pdb
+C:\Users\bernardo.lisboa\Desktop\ERP\misFunciones\misFunciones\bin\Debug\misFunciones.xml
+C:\Users\bernardo.lisboa\Desktop\ERP\misFunciones\misFunciones\obj\Debug\misFunciones.vbprojAssemblyReference.cache
+C:\Users\bernardo.lisboa\Desktop\ERP\misFunciones\misFunciones\obj\Debug\misFunciones.Resources.resources
+C:\Users\bernardo.lisboa\Desktop\ERP\misFunciones\misFunciones\obj\Debug\misFunciones.vbproj.GenerateResource.cache
+C:\Users\bernardo.lisboa\Desktop\ERP\misFunciones\misFunciones\obj\Debug\misFunciones.vbproj.CoreCompileInputs.cache
+C:\Users\bernardo.lisboa\Desktop\ERP\misFunciones\misFunciones\obj\Debug\misFunciones.dll
+C:\Users\bernardo.lisboa\Desktop\ERP\misFunciones\misFunciones\obj\Debug\misFunciones.xml
+C:\Users\bernardo.lisboa\Desktop\ERP\misFunciones\misFunciones\obj\Debug\misFunciones.pdb
